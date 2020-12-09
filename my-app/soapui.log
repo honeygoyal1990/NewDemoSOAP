@@ -1,0 +1,57 @@
+2020-12-09 10:27:41,108 WARN  [SoapUI] Missing folder [C:\Users\PratibhaAgrawal\Desktop\APITesting\my-app\ext] for external libraries
+2020-12-09 10:27:41,431 INFO  [DefaultSoapUICore] initialized soapui-settings from [C:\Users\PratibhaAgrawal\soapui-settings.xml]
+2020-12-09 10:27:43,721 INFO  [WsdlProject] Loaded project from [file:/C:/Users/PratibhaAgrawal/Desktop/APITesting/my-app/ProjectAssignment-soapui-project.xml]
+2020-12-09 10:27:44,797 INFO  [SoapUITestCaseRunner] Running SoapUI tests in project [ProjectAssignment]
+2020-12-09 10:27:44,800 INFO  [SoapUITestCaseRunner] Running Project [ProjectAssignment], runType = SEQUENTIAL
+2020-12-09 10:27:44,881 INFO  [SoapUITestCaseRunner] Running SoapUI testcase [UsingPropTranfer]
+2020-12-09 10:27:44,931 INFO  [SoapUITestCaseRunner] running step [Properties]
+2020-12-09 10:27:45,045 INFO  [SoapUITestCaseRunner] running step [Property Transfer 1]
+2020-12-09 10:27:45,551 INFO  [SoapUITestCaseRunner] running step [AddCustomer]
+2020-12-09 10:27:58,621 INFO  [SoapUITestCaseRunner] Assertion [SOAP Response] has status VALID
+2020-12-09 10:27:58,621 INFO  [SoapUITestCaseRunner] running step [Property Transfer]
+2020-12-09 10:27:58,650 INFO  [SoapUITestCaseRunner] running step [GetAllList]
+2020-12-09 10:28:09,548 INFO  [SoapUITestCaseRunner] Assertion [SOAP Response] has status VALID
+2020-12-09 10:28:09,548 INFO  [SoapUITestCaseRunner] running step [GetID]
+2020-12-09 10:28:10,741 INFO  [SoapUITestCaseRunner] Assertion [SOAP Response] has status VALID
+2020-12-09 10:28:10,741 INFO  [SoapUITestCaseRunner] running step [DeleteID]
+2020-12-09 10:28:13,155 INFO  [SoapUITestCaseRunner] Assertion [SOAP Response] has status VALID
+2020-12-09 10:28:13,156 INFO  [SoapUITestCaseRunner] Finished running SoapUI testcase [UsingPropTranfer], time taken: 28180ms, status: FINISHED
+2020-12-09 10:28:13,167 INFO  [SoapUITestCaseRunner] Running SoapUI testcase [UsingPropExpansion]
+2020-12-09 10:28:13,168 INFO  [SoapUITestCaseRunner] running step [Properties]
+2020-12-09 10:28:13,171 INFO  [SoapUITestCaseRunner] running step [AddCustomer]
+2020-12-09 10:28:15,449 INFO  [log] 6585
+2020-12-09 10:28:15,460 INFO  [SoapUITestCaseRunner] Assertion [SOAP Response] has status VALID
+2020-12-09 10:28:15,460 INFO  [SoapUITestCaseRunner] Assertion [Script Assertion] has status VALID
+2020-12-09 10:28:15,462 INFO  [SoapUITestCaseRunner] running step [GetID]
+2020-12-09 10:28:16,757 INFO  [SoapUITestCaseRunner] Assertion [SOAP Response] has status VALID
+2020-12-09 10:28:16,758 INFO  [SoapUITestCaseRunner] running step [DeleteID]
+2020-12-09 10:28:18,351 INFO  [SoapUITestCaseRunner] Assertion [SOAP Response] has status VALID
+2020-12-09 10:28:18,352 INFO  [SoapUITestCaseRunner] Finished running SoapUI testcase [UsingPropExpansion], time taken: 5169ms, status: FINISHED
+2020-12-09 10:28:18,355 INFO  [SoapUITestCaseRunner] Running SoapUI testcase [GroovyScripting]
+2020-12-09 10:28:18,355 INFO  [SoapUITestCaseRunner] running step [Groovy Script]
+2020-12-09 10:28:18,506 INFO  [SoapUITestCaseRunner] Running SoapUI testcase [UsingPropExpansion]
+2020-12-09 10:28:18,508 INFO  [SoapUITestCaseRunner] running step [Properties]
+2020-12-09 10:28:18,511 INFO  [SoapUITestCaseRunner] running step [AddCustomer]
+2020-12-09 10:28:19,875 INFO  [log] 6586
+2020-12-09 10:28:19,879 INFO  [SoapUITestCaseRunner] Assertion [SOAP Response] has status VALID
+2020-12-09 10:28:19,879 INFO  [SoapUITestCaseRunner] Assertion [Script Assertion] has status VALID
+2020-12-09 10:28:19,882 INFO  [SoapUITestCaseRunner] running step [GetID]
+2020-12-09 10:28:20,934 INFO  [SoapUITestCaseRunner] Assertion [SOAP Response] has status VALID
+2020-12-09 10:28:20,935 INFO  [SoapUITestCaseRunner] running step [DeleteID]
+2020-12-09 10:28:22,338 INFO  [SoapUITestCaseRunner] Assertion [SOAP Response] has status VALID
+2020-12-09 10:28:22,338 INFO  [SoapUITestCaseRunner] Finished running SoapUI testcase [UsingPropExpansion], time taken: 3810ms, status: FINISHED
+2020-12-09 10:28:22,352 INFO  [log] Status =FINISHED, time taken to complete execution is 3810 ms
+2020-12-09 10:28:22,418 INFO  [log] number of test steps executed are 4
+2020-12-09 10:28:22,419 INFO  [SoapUITestCaseRunner] Finished running SoapUI testcase [GroovyScripting], time taken: 4061ms, status: FINISHED
+2020-12-09 10:28:22,427 INFO  [SoapUITestCaseRunner] Running SoapUI testcase [UsingCustomProperties]
+2020-12-09 10:28:22,428 INFO  [SoapUITestCaseRunner] running step [Properties]
+2020-12-09 10:28:22,429 INFO  [SoapUITestCaseRunner] running step [AddCust]
+2020-12-09 10:28:23,818 INFO  [log] 6587
+2020-12-09 10:28:23,831 INFO  [SoapUITestCaseRunner] Assertion [SOAP Response] has status VALID
+2020-12-09 10:28:23,831 INFO  [SoapUITestCaseRunner] Assertion [Script Assertion] has status VALID
+2020-12-09 10:28:23,833 INFO  [SoapUITestCaseRunner] running step [GetID]
+2020-12-09 10:28:24,632 INFO  [SoapUITestCaseRunner] Assertion [SOAP Response] has status VALID
+2020-12-09 10:28:24,632 INFO  [SoapUITestCaseRunner] running step [DeleteID]
+2020-12-09 10:28:25,786 INFO  [SoapUITestCaseRunner] Assertion [SOAP Response] has status VALID
+2020-12-09 10:28:25,787 INFO  [SoapUITestCaseRunner] Finished running SoapUI testcase [UsingCustomProperties], time taken: 3348ms, status: FINISHED
+2020-12-09 10:28:25,789 INFO  [SoapUITestCaseRunner] Project [ProjectAssignment] finished with status [FINISHED] in 40970ms
